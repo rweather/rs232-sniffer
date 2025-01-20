@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "RS232ExtraFootprints")(type "KiCad")(uri "${KIPRJMOD}/RS232ExtraFootprints.pretty")(options "")(descr ""))
+)

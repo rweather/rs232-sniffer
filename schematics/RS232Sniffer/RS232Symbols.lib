@@ -1,0 +1,21 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Logo_Southern_Storm
+#
+DEF Logo_Southern_Storm LOGO 0 40 Y Y 1 F N
+F0 "LOGO" 0 0 50 H V C CNN
+F1 "Logo_Southern_Storm" 0 100 50 H V C CNN
+F2 "RS232ExtraFootprints:Logo_Southern_Storm" -100 -100 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+T 0 -110 -250 157 0 0 0 * Normal 0 C C
+T 0 -60 -640 157 0 0 0 * Normal 0 C C
+T 0 50 -430 79 0 0 0 * Normal 0 C C
+T 0 90 -170 157 0 0 0 * Normal 0 C C
+T 0 170 -370 157 0 0 0 * Normal 0 C C
+P 7 0 0 0 -30 -120 30 -360 -10 -350 10 -550 -60 -300 -20 -310 -30 -120 F
+ENDDRAW
+ENDDEF
+#
+#End Library

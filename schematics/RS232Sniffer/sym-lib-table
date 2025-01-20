@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "RS232Symbols")(type "Legacy")(uri "/home/rweather/new_work/electronics/rs232_sniffer/RS232Sniffer_GND/RS232Symbols.lib")(options "")(descr ""))
+  (lib (name "RS232Sniffer-rescue")(type "KiCad")(uri "${KIPRJMOD}/RS232Sniffer-rescue.kicad_sym")(options "")(descr ""))
+)
