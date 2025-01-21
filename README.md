@@ -18,7 +18,7 @@ SCADA systems.
 The boxes have also proven useful to check if serial ports are working
 at all, and to track down problems with RTS/CTS handshaking and the like.
 
-<img alt="RS-232 Sniffer Box" src="photos/rs232-sniffer.jpg" width="860"/>
+<img alt="RS-232 Sniffer Box" src="photos/rs232sniffer.jpg" width="860"/>
 
 ## Capabilities
 
